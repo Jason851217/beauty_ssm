@@ -11,9 +11,10 @@ import org.springframework.stereotype.Component;
 import org.springframework.validation.BindingResult;
 
 /**
+ * 采用AOP的方式处理参数问题。
  * @author yingjun
  *
- * 采用AOP的方式处理参数问题。
+ *
  */
 @Component
 @Aspect
